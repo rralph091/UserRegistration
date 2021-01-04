@@ -62,8 +62,6 @@
 		<div class="row">
 		<input type="submit" value="Save!" name="save">
 		</div>
-		 </div>
-		</div>
 		</form>
 		</div>
 		</body>
