@@ -29,7 +29,6 @@
 			<input type="text" id="lname" name="lastname"
 			placeholder="Your last name..">
 		</div>
-		</div>
 		<div class="row">
 			<div class="col-25">
 			<label for="accesslevel">Access Level</label>
@@ -47,7 +46,7 @@
 		<label for="address"> Address</label>
 	</div>
 		<div class="col-75">
-		<textarea id="address" name="address
+		<textarea id="address" name="address"
 		placeholder="Your Address.." style="height:70px"></textarea>
 		</div>
 		<div class="row">
