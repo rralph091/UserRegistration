@@ -34,8 +34,8 @@
 			<div class="col-25">
 			<label for="accesslevel">Access Level</label>
 		</div>
-			<div class="col-75">
-				<select id="accesslevel" name=accesslevel">
+			<div class="col-75">	   
+				<select id="accesslevel" name="accesslevel">
 				<option value="ordinaryuser">Ordinary User</option>
 				<option value="supervisoryuser">Supervisory User</option>
 				<option value="superuser">Super User</option>
